@@ -1,2 +1,2 @@
-# STC---task-1
+# STC-task-1
 A simple Restaurant template.
